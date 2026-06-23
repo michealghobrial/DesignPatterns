@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net8.0": {}
   },
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj",
+      "projectUniqueName": "C:\\Users\\MICHEAL\\source\\repos\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj",
       "projectName": "SingletonPattern",
-      "projectPath": "D:\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj",
+      "projectPath": "C:\\Users\\MICHEAL\\source\\repos\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj",
       "packagesPath": "C:\\Users\\MICHEAL\\.nuget\\packages\\",
-      "outputPath": "D:\\DesignPatterns\\SingletonPattern\\obj\\",
+      "outputPath": "C:\\Users\\MICHEAL\\source\\repos\\DesignPatterns\\SingletonPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -36,6 +36,7 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -50,10 +51,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net8.0": {
+        "framework": "net8.0",
         "targetAlias": "net8.0",
         "imports": [
           "net461",
@@ -71,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Logger.Instance.Log("Logging with Singleton Pattern");
+            Logger.GetInstance().Log("Logging with Singleton Pattern");
+            Logger.GetInstance().Log("Logging with Singleton Pattern");
+            Logger.GetInstance().Log("Logging with Singleton Pattern");
         }
     }
 }

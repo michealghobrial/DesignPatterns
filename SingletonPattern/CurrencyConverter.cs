@@ -1,10 +1,11 @@
 ﻿namespace SingletonPattern
 {
-    public class CurrencyConverter
+    public sealed class CurrencyConverter
     {
         private static object _lock = new object();
         private static CurrencyConverter? _instance;
         private IEnumerable<ExchangeRate> _exchangeRates;
+
         private CurrencyConverter()
         {
             LoadExchangeRates();

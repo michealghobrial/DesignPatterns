@@ -1,15 +1,19 @@
-﻿namespace SingletonPattern2
+﻿using System.Diagnostics.Metrics;
+
+namespace SingletonPattern2
 {
-    public class Logger
+    public sealed class Logger
     {
-        private static Logger _instance = new Logger();
-        public static Logger Instance
-        {
-            get
-            {
-                return _instance;
-            }
+        private static int counter = 0;
+        private static readonly Lazy<Logger> instance = new Lazy<Logger>(() => new Logger());
+
+        private Logger(){
+            counter++;
+            Console.WriteLine("Counter Value " + counter.ToString());
         }
+
+        public static Logger GetInstance() => instance.Value;
+
         public void Log(string message) => Console.WriteLine("Log " + message);
     }
 }
