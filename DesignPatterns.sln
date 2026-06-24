@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.7.11911.148 stable
+VisualStudioVersion = 18.7.11911.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{6A53D6CC-0E95-40B9-ACB4-49771BE2B998}"
 EndProject
@@ -12,6 +12,13 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern2", "FactoryPattern2\FactoryPattern2.csproj", "{29D40B1E-D664-478A-937D-21AC4029F7DC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern3", "FactoryPattern3\FactoryPattern3.csproj", "{19E89D57-564A-45DA-AA9E-5E0C83E961A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern4", "FactoryPattern4\FactoryPattern4.csproj", "{E146D866-9C0D-4C58-9896-60E1F472ED92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{231B09B2-6540-4E11-8FD4-AC8B3FC8D128}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +46,10 @@ Global
 		{19E89D57-564A-45DA-AA9E-5E0C83E961A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E89D57-564A-45DA-AA9E-5E0C83E961A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19E89D57-564A-45DA-AA9E-5E0C83E961A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E146D866-9C0D-4C58-9896-60E1F472ED92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E146D866-9C0D-4C58-9896-60E1F472ED92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E146D866-9C0D-4C58-9896-60E1F472ED92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E146D866-9C0D-4C58-9896-60E1F472ED92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
