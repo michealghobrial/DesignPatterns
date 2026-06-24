@@ -1,0 +1,15 @@
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\bin\Debug\net10.0\FactoryPattern2.exe
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\bin\Debug\net10.0\FactoryPattern2.deps.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\bin\Debug\net10.0\FactoryPattern2.runtimeconfig.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\bin\Debug\net10.0\FactoryPattern2.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\bin\Debug\net10.0\FactoryPattern2.pdb
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\obj\Debug\net10.0\FactoryPattern2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\obj\Debug\net10.0\FactoryPattern2.AssemblyInfoInputs.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\obj\Debug\net10.0\FactoryPattern2.AssemblyInfo.cs
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\obj\Debug\net10.0\FactoryPattern2.csproj.CoreCompileInputs.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\obj\Debug\net10.0\FactoryPattern2.sourcelink.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\obj\Debug\net10.0\FactoryPattern2.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\obj\Debug\net10.0\refint\FactoryPattern2.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\obj\Debug\net10.0\FactoryPattern2.pdb
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\obj\Debug\net10.0\FactoryPattern2.genruntimeconfig.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\FactoryPattern2\obj\Debug\net10.0\ref\FactoryPattern2.dll

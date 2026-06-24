@@ -2,7 +2,7 @@
 
 namespace SingletonPattern2
 {
-    public sealed class Logger
+    public  sealed class Logger
     {
         private static int counter = 0;
         private static readonly Lazy<Logger> instance = new Lazy<Logger>(() => new Logger());
