@@ -6,7 +6,6 @@ namespace FactoryPattern2
 {
     public static class NotificationFactory
     {
-
         public static INotificationSender CreateNotification(string notificationType)
         {
             switch (notificationType.ToLower())
