@@ -1,0 +1,15 @@
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\bin\Debug\net10.0\AbstractFactory3.exe
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\bin\Debug\net10.0\AbstractFactory3.deps.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\bin\Debug\net10.0\AbstractFactory3.runtimeconfig.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\bin\Debug\net10.0\AbstractFactory3.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\bin\Debug\net10.0\AbstractFactory3.pdb
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\obj\Debug\net10.0\AbstractFactory3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\obj\Debug\net10.0\AbstractFactory3.AssemblyInfoInputs.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\obj\Debug\net10.0\AbstractFactory3.AssemblyInfo.cs
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\obj\Debug\net10.0\AbstractFactory3.csproj.CoreCompileInputs.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\obj\Debug\net10.0\AbstractFactory3.sourcelink.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\obj\Debug\net10.0\AbstractFactory3.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\obj\Debug\net10.0\refint\AbstractFactory3.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\obj\Debug\net10.0\AbstractFactory3.pdb
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\obj\Debug\net10.0\AbstractFactory3.genruntimeconfig.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\AbstractFactory3\obj\Debug\net10.0\ref\AbstractFactory3.dll
