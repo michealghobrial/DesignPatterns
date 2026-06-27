@@ -1,0 +1,15 @@
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\bin\Debug\net10.0\BuilderPattern3.exe
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\bin\Debug\net10.0\BuilderPattern3.deps.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\bin\Debug\net10.0\BuilderPattern3.runtimeconfig.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\bin\Debug\net10.0\BuilderPattern3.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\bin\Debug\net10.0\BuilderPattern3.pdb
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\obj\Debug\net10.0\BuilderPattern3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\obj\Debug\net10.0\BuilderPattern3.AssemblyInfoInputs.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\obj\Debug\net10.0\BuilderPattern3.AssemblyInfo.cs
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\obj\Debug\net10.0\BuilderPattern3.csproj.CoreCompileInputs.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\obj\Debug\net10.0\BuilderPattern3.sourcelink.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\obj\Debug\net10.0\BuilderPattern3.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\obj\Debug\net10.0\refint\BuilderPattern3.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\obj\Debug\net10.0\BuilderPattern3.pdb
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\obj\Debug\net10.0\BuilderPattern3.genruntimeconfig.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\BuilderPattern3\obj\Debug\net10.0\ref\BuilderPattern3.dll
