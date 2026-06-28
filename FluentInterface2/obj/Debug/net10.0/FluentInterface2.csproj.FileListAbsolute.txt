@@ -1,0 +1,15 @@
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\bin\Debug\net10.0\FluentInterface2.exe
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\bin\Debug\net10.0\FluentInterface2.deps.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\bin\Debug\net10.0\FluentInterface2.runtimeconfig.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\bin\Debug\net10.0\FluentInterface2.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\bin\Debug\net10.0\FluentInterface2.pdb
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\obj\Debug\net10.0\FluentInterface2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\obj\Debug\net10.0\FluentInterface2.AssemblyInfoInputs.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\obj\Debug\net10.0\FluentInterface2.AssemblyInfo.cs
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\obj\Debug\net10.0\FluentInterface2.csproj.CoreCompileInputs.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\obj\Debug\net10.0\FluentInterface2.sourcelink.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\obj\Debug\net10.0\FluentInterface2.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\obj\Debug\net10.0\refint\FluentInterface2.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\obj\Debug\net10.0\FluentInterface2.pdb
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\obj\Debug\net10.0\FluentInterface2.genruntimeconfig.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\FluentInterface2\obj\Debug\net10.0\ref\FluentInterface2.dll

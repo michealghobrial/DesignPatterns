@@ -635,6 +635,7 @@ public class PizzaDirector
 
 // Usage
 var director = new PizzaDirector();
+
 var builder = new PizzaBuilder();
 
 director.MakeMargherita(builder);

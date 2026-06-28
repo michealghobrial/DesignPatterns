@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern3", "BuilderP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentInterface", "FluentInterface\FluentInterface.csproj", "{D5796F57-CEC1-4358-891C-DD792C1D35E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentInterface2", "FluentInterface2\FluentInterface2.csproj", "{EF37737C-9D54-41AC-84BE-54213C159341}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -92,6 +94,10 @@ Global
 		{D5796F57-CEC1-4358-891C-DD792C1D35E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5796F57-CEC1-4358-891C-DD792C1D35E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5796F57-CEC1-4358-891C-DD792C1D35E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF37737C-9D54-41AC-84BE-54213C159341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF37737C-9D54-41AC-84BE-54213C159341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF37737C-9D54-41AC-84BE-54213C159341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF37737C-9D54-41AC-84BE-54213C159341}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
