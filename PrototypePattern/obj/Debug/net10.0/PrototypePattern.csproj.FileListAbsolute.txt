@@ -1,0 +1,15 @@
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\bin\Debug\net10.0\PrototypePattern.exe
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\bin\Debug\net10.0\PrototypePattern.deps.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\bin\Debug\net10.0\PrototypePattern.runtimeconfig.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\bin\Debug\net10.0\PrototypePattern.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\bin\Debug\net10.0\PrototypePattern.pdb
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\obj\Debug\net10.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\obj\Debug\net10.0\PrototypePattern.AssemblyInfoInputs.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\obj\Debug\net10.0\PrototypePattern.AssemblyInfo.cs
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\obj\Debug\net10.0\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\obj\Debug\net10.0\PrototypePattern.sourcelink.json
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\obj\Debug\net10.0\PrototypePattern.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\obj\Debug\net10.0\refint\PrototypePattern.dll
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\obj\Debug\net10.0\PrototypePattern.pdb
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\obj\Debug\net10.0\PrototypePattern.genruntimeconfig.cache
+C:\Users\MICHEAL\source\repos\DesignPatterns\PrototypePattern\obj\Debug\net10.0\ref\PrototypePattern.dll
